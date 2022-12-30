@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wildberries<br>🌱 I’m currently learning golang & backend development<br>⚡ I love parrots
+🔭 I’m currently working on Softline<br>🌱 I’m currently learning golang & backend development<br>⚡ I love parrots
 
 
 # 💻 Tech Stack:
